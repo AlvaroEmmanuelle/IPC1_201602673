@@ -67,8 +67,6 @@ public class VentanaRecord extends javax.swing.JFrame {
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagen/gokurecord.gif"))); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 10, 390, 200));
-
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagen/record fondo.png"))); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(-10, -20, 730, 360));
 
         pack();

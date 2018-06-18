@@ -1,2 +1,3 @@
 Jugadores:AlvaroyjohanGanador:Ganador J2:johanTiempo:00:43
 Jugadores:AlvaroySussanaGanador J2:SussanaTiempo:01:23
+Jugadores:alvaroyJohanGanador J2:JohanTiempo:00:48

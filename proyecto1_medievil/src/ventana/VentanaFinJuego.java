@@ -157,8 +157,6 @@ public class VentanaFinJuego extends javax.swing.JFrame {
         ImagenFondo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagen/FinalGoku.gif"))); // NOI18N
         jLayeredPane1.add(ImagenFondo);
         ImagenFondo.setBounds(150, 0, 470, 470);
-
-        ColorFondo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagen/fondoColorPollo.png"))); // NOI18N
         jLayeredPane1.add(ColorFondo);
         ColorFondo.setBounds(0, 0, 767, 520);
 
